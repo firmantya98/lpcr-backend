@@ -1,0 +1,32 @@
+{
+  "name": "lpcr-backend",
+  "version": "0.1.0",
+  "description": "LPCR Backend Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmantya98/lpcr-backend.git"
+  },
+  "keywords": [],
+  "author": "alifwijaya440@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firmantya98/lpcr-backend/issues"
+  },
+  "homepage": "https://github.com/firmantya98/lpcr-backend#readme",
+  "devDependencies": {
+    "mocha": "latest",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "geojson-precision": "^1.0.0",
+    "mysql": "latest",
+    "topojson-server": "^3.0.1",
+    "wkx": "^0.5.0"
+  }
+}
