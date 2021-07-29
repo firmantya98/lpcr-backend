@@ -8,3 +8,4 @@ secara ke seluruhan aplikasi untuk LPCR Muhammadiyah ini terdiri dari tiga bagia
 2. Frontend dashboard administrator  ( [lpcr-frontend](https://github.com/Lutfiana1805/lpcr-frontend) ), yang di kerjakan oleh sdr. [Lutfiana Gita asmara](https://github.com/Lutfiana1805).
 3. lpcr@mobile  ( [lpcr@mobile](https://github.com/Dens02/lpcr_mobile) ), yang di kerjakan oleh sdr. [Denny Alfandy](https://github.com/Dens02).
 
+Adapun aplikasi ini bisa diakses di [ situs LPCR Muhammadiyah](https://kaderlpcrmuhammadiyah.com).
